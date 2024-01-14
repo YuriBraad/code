@@ -1,1 +1,6 @@
-
+.top {
+  font-family: Arial;
+  display: flex;
+  allign-items: center;
+  justify-content: center;
+}
